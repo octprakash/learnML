@@ -8,7 +8,7 @@ MLOps - Part 1
 MLOps - Part 2
 	11 November 2024, 2:00 PM - 4:00 PM  (Day 4) -- Numpy
 	13 November 2024, 2:00 PM - 4:00 PM  (Day 5) -- Numpy balance and Panda	loading data.csv file in colab (json)
-	15 November 2024, 2:00 PM - 4:00 PM  (Day 6) -- Panda
+	18 November 2024, 2:00 PM - 4:00 PM  (Day 6) -- Panda - mean, median and mode examples
 
  MLOps - Part 3
 	19 November 2024, 2:00 PM - 4:00 PM
